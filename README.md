@@ -10,7 +10,7 @@ training and inference are reproducible and can be tested independently.
 
 ## What this project actually does
 
-PathQC-Triage is an experimental two-stage computer-vision pipeline for
+This is an experimental two-stage computer-vision pipeline for
 colorectal histopathology images. It works with **PathMNIST**, a dataset of
 small labelled image patches derived from the NCT-CRC-HE-100K benchmark.
 
