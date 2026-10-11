@@ -1,4 +1,4 @@
-# PathQC-Triage
+# Automated Colorectal Histopathology QC and Classification Pipeline
 
 The project now includes a reusable implementation in
 [`pathqc_pipeline.py`](./pathqc_pipeline.py). The notebook remains an
